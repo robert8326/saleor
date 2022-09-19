@@ -163,3 +163,4 @@ websockets==10.3; python_version >= "3.7"
 wrapt==1.14.1; python_version >= "3.7" and python_full_version < "3.0.0" or python_version >= "3.7" and python_full_version >= "3.5.0"
 zipp==3.8.1; python_version < "3.10" and python_version >= "3.7"
 zopfli==0.2.1; python_version >= "3.7"
+yookassa==2.3.2
